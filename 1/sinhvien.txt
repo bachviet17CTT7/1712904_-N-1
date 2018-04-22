@@ -1,0 +1,3 @@
+"1312002", "Di?p Hoàng Anh", "CNTT", "2013", "08/12/1995", "1.jpg", "Vui v?, hòa d?ng", "Lady Gaga"
+"1312102", "Lê Thanh Duong", "CNTT", "2013", "27/12/1994", "2.jpg", "Vui v?, hòa d?ng", "Liên minh huy?n tho?i"
+"1312333", "Hà M?ng Long", "CNTT", "2013", "04/09/1995", "3.jpg", "Vui v?, hòa d?ng", "Nghiên c?u"
